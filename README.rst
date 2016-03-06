@@ -2,10 +2,10 @@ Python Spatial Analysis Library
 =================================
 
 .. image:: https://travis-ci.org/pysal/pysal.svg
-   :target: https://travis-ci.org/pysal
+   :target: https://travis-ci.org/pysal/pysal.svg?branch=dev
 
 .. image:: https://coveralls.io/repos/pysal/pysal/badge.svg?branch=master
-   :target: https://coveralls.io/r/pysal/pysal?branch=master
+   :target: https://coveralls.io/r/pysal/pysal?branch=dev
 
 
 PySAL_ is an open source cross-platform library of spatial analysis functions
